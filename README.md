@@ -9,3 +9,11 @@
 
 [Source Code](https://github.com/MehdiAdeliFar/AndroidCourseSources/blob/master/Chapter%2020%20DoozGame/DoozGame.rar)
 
+
+<b>Chapter 21 Dooz(Connect) game part 2</b>
+
+[Video](https://programming.tosinso.com/fa/videos/2243)
+
+[Source Code](https://github.com/MehdiAdeliFar/AndroidCourseSources/blob/master/Chapter%2020%20DoozGame/DoozGame.rar)
+
+
