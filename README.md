@@ -1,7 +1,11 @@
 # AndroidCourseSources
 کدهای مربوط به دوره آموزشی اندروید سایت توسینسو
 
+<b>Chapter 2 Variables</b>
 
+[Video](https://programming.tosinso.com/fa/videos/1904)
+
+[Source Code](https://github.com/MehdiAdeliFar/AndroidCourseSources/blob/master/Chapter%2020%20DoozGame/DoozGame.rar)
 
 <b>Chapter 20 Dooz(Connect) game part 1</b>
 
