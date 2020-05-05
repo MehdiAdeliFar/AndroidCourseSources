@@ -18,6 +18,6 @@
 
 [Video](https://programming.tosinso.com/fa/videos/2243)
 
-[Source Code](https://github.com/MehdiAdeliFar/AndroidCourseSources/blob/master/Chapter%2020%20DoozGame/DoozGame.rar)
+[Source Code](https://github.com/MehdiAdeliFar/AndroidCourseSources/blob/master/Chapter%2021%20Dooz%20Game%20continued/DoozGame.rar)
 
 
